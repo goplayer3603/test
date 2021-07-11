@@ -1,4 +1,3 @@
-<html lang="ko">
 <head>
 <title>WHERE ARE YOU TEACHER?- HTML</title>
 <meta charset="utf-8">
